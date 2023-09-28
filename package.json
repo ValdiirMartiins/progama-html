@@ -1,0 +1,14 @@
+{
+  "name": "criando-tipos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc-watch": "npx tsc --watch"
+  },
+  "author": "Valdir",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
